@@ -101,3 +101,4 @@
  --server <server_uri>       ACME目录资源 链接。（默认值：https://acme.zerossl.com/v2/DV90)
 
 ​         
+# 原文链接：https://www.yuque.com/docs/share/bcdc965d-36fa-4e00-bbad-7b9236a65501?# 《acme.sh命令参数中文不完全文档》
