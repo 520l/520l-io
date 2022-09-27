@@ -28,7 +28,7 @@
 
  `--upgrade        Upgrade acme.sh to the latest code from https://github.com/acmesh-official/acme.sh.`
 
---upgrade        从https://github.com/acmesh-official/acme.sh升级acme.sh至最新代码。
+--upgrade        从[https://github.com/acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)升级acme.sh至最新代码。
 
  `--issue         Issue a cert.`
 
