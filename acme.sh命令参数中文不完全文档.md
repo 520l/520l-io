@@ -1,9 +1,6 @@
 **基于acme.sh3.0.5版本翻译命令参数中文文档（不完全版）**
 
-#### 以下翻译基于个人目前用到的命令进行翻译，由于命令具多暂时是用到哪些常用命令就更新哪些。持续更新。原文链接：https://www.yuque.com/docs/share/f8faf0bd-3d19-4047-8a2f-d7315493a03a?# 《acme.sh命令参数中文不完全文档》
-
-`Usage: acme.sh <command> ... [parameters ...]`		
-
+#### 以下翻译基于个人目前用到的命令进行翻译，由于命令具多暂时是用到哪些常用命令就更新哪些。持续更新。原文链接：https://www.yuque.com/docs/share/bcdc965d-36fa-4e00-bbad-7b9236a65501?# 《acme.sh命令参数中文不完全文档》
 用法：acme.sh	<命令>...[参数...]
 
 Commands:  
